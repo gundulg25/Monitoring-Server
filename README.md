@@ -1,2 +1,2 @@
-# apibisangaji
-API bisa ngaji, berisikan jadwal sholat, al-quran, dan lain-lain
+# API Bisa Ngaji
+API bisa ngaji, berisikan jadwal sholat, al-quran, dan lain-lain, Ayo kita belajar ngaji ... 
